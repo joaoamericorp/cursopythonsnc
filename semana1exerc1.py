@@ -1,0 +1,6 @@
+numInt = input('Digite um núero inteiro ')
+int(numInt)
+print(type(numInt))
+number = int(numInt)
+print(type(number))
+print('O número inteiro lido foi: ',number)

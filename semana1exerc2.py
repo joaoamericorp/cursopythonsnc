@@ -1,0 +1,5 @@
+numFlt = input('Digite um núero decimal: ')
+print(type(numFlt))
+decimal = float(numFlt)
+print(type(decimal))
+print('O número decimal lido foi: ',decimal)
